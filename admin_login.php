@@ -39,14 +39,14 @@ $output .= '
         <img src="slike/Icon.png" width="100px" height="100px" />
         <h1>Registracija</h1>
         <form method="post" name="form">
-            <p>Korisničko ime</p>
-            <input type="text" name="UserName" placeholder="Unesite korisničko ime" />
-            <p>Lozinka</p>
-            <input type="password" name="Password" placeholder="Unesite lozinku" />
+            <p>Uporabniško ime</p>
+            <input type="text" name="UserName" placeholder="Vnesite uporabniško ime" />
+            <p>Geslo</p>
+            <input type="password" name="Password" placeholder="Vnesite geslo" />
             <input type="submit" name="submit" value="Prijavi se" />
             <hr class="linija" />
             <br>
-            <p>Da bi kupili naranče, morate se prijaviti na našu web-stranicu!</p>
+            <p>Za dodajanje objave morate biti prijavljeni. Samo za admina!</p>
         </form>
     </div>';
 
