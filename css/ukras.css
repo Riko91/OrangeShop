@@ -1,0 +1,74 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Bookman Old Style';
+}
+
+
+.Naslov {
+    background-color: #FF7F1A;
+    color: #555555;
+    padding: 0px;
+    padding-top: 1px;
+    text-align: center;
+    margin: auto;
+    text-shadow: gray 2px 2px 3px;
+}
+.linija {
+    border: 1px dashed #555555;
+}
+.Navigacija {
+    text-align: center;
+}
+.Navigacija ul {
+    padding: 0px;
+    padding-bottom: 10px;
+    list-style: none;
+    margin-bottom: 0px;
+}
+.Navigacija li{
+    display: inline;
+    padding: 30px;
+}
+.Navigacija a{
+    text-decoration: none;
+    color: #555555;
+    font-size: 18px;
+}
+.Navigacija a:hover{
+    color: lightgray;
+}
+.Navigacija a:active{
+    color: lightgray;
+}
+
+
+.Sadrzaj {
+    width: 1200px;
+    margin: auto;
+	margin-top: 25px;
+    background-color: white;
+    border: 1px solid #555555;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.Podnozje{
+	width: 1200px;
+	margin: auto;
+    clear: both;
+    background-color: #555555;
+    color: white;
+    padding: 10px;
+    border: 1px solid #555555;
+    border-radius: 0px 0px 25px 25px;
+}
+
+.Podnozje a{
+    text-align: left;
+    color: white;
+    text-decoration: none;
+}
+
+.Podnozje p{
+    text-align: right;
+    margin-top: -23px;
+}
