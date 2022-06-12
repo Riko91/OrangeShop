@@ -12,6 +12,7 @@ $db = dbConnect();
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
+	<link rel="icon" href="slike/Icon.png" type="image/png" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->

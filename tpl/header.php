@@ -5,7 +5,7 @@
 		<div class="Navigacija">
 			<ul >
 				<li><a aria-current="page" href="index.php">Domov</a></li>
-				<li><a href="#">Informacije</a></li>
+				<li><a href="informacije.html">Informacije</a></li>
 				<li><a href="#">Kontakt</a></li>
                 <?php echo outputLogIn();?>
             </ul>
